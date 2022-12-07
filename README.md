@@ -1,2 +1,2 @@
 # OmdbProject
-Sample project with OMDB inplementation
+Sample project with OMDB implementation
